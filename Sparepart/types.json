@@ -1,0 +1,13 @@
+{
+    
+    "Sparepart":{
+      "vendorbyid":"AccountId",
+      "partid":"u32",
+      "description":"Vec<u8>",
+      "model":"Vec<u8>",
+      "product":"Vec<u8>",
+			"batch":"Vec<u8>",
+			"manufacturingdate":"Vec<u8>"
+     
+    }
+}

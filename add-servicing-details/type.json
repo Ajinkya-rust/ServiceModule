@@ -1,0 +1,13 @@
+{
+    
+    "Servicedetails":{
+      "manufacturer":"AccountId",
+      "chassi_number":"u32",
+      "engine_number":"u32",
+      "model":"Vec<u8>",
+      "service_description":"Vec<u8>",
+      "servicing_date":"Vec<u8>",
+      "servicecenter_address":"Vec<u8>",
+      "vehical_number":"Vec<u8>"
+    }
+}

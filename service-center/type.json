@@ -1,0 +1,10 @@
+{
+    "Servicecenter":{
+        "name":"Vec<u8>",
+        "appointment":"u32",
+        "centerid":"AccountId",
+        "oem":"Vec<u8>",
+        "location":"Vec<u8>",
+        "whos":"vec<u8>"
+    }
+} 
